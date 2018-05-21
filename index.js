@@ -6,7 +6,7 @@ function destructivelyAppendDriver(){
 function destructivelyPrependDriver(){
 }
 
-function destructivelyAppendDriver(){
+function destructivelyRemoveLastDriverName(){
 }
 
 function appendDriver(){
