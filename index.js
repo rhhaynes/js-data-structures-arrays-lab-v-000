@@ -23,3 +23,13 @@ function appendDriver(name){
 function prependDriver(name){
   return [name, ...drivers];
 }
+
+function removeLastDriver(){
+  let newDriver = drivers.slice(0,-1);
+  return newDriver;
+}
+
+function removeFirstDriver(){
+  let newDriver = drivers.slice(1);
+  return newDriver;
+}
