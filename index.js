@@ -1,15 +1,15 @@
 const drivers = ['Milo', 'Otis', 'Garfield'];
 
-function destructivelyAppendDriver(){
+function destructivelyAppendDriver(name){
 }
 
-function destructivelyPrependDriver(){
+function destructivelyPrependDriver(name){
 }
 
-function destructivelyRemoveLastDriverName(){
+function destructivelyRemoveLastDriver(){
 }
 
-function destructivelyRemoveFirstDriverName(){
+function destructivelyRemoveFirstDriver(){
 }
 
 function appendDriver(){
