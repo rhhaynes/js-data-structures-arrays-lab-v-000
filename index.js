@@ -9,5 +9,8 @@ function destructivelyPrependDriver(){
 function destructivelyRemoveLastDriverName(){
 }
 
+function destructivelyRemoveFirstDriverName(){
+}
+
 function appendDriver(){
 }
